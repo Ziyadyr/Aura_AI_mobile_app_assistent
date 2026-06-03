@@ -205,29 +205,6 @@ Advanced autonomous assistant:
 
 ---
 
-## Project Structure
-
-```text
-lib/
-├── core/
-├── features/
-│   ├── authentication/
-│   ├── dashboard/
-│   ├── calendar/
-│   ├── tasks/
-│   ├── notes/
-│   ├── reminders/
-│   ├── meetings/
-│   ├── emails/
-│   └── ai_assistant/
-├── shared/
-├── services/
-├── routing/
-└── main.dart
-```
-
----
-
 ## User Groups
 
 AURA is designed for:
