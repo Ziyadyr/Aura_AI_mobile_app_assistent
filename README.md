@@ -88,6 +88,8 @@ AURA aims to become a personal AI operating system capable of acting as a digita
 ---
 
 ## Multi-Agent Architecture (Future Phase)
+<img width="1440" height="1560" alt="image" src="https://github.com/user-attachments/assets/be358e64-5ab3-4747-829c-d6c05532ae51" />
+
 
 AURA is designed around a scalable multi-agent architecture.
 
